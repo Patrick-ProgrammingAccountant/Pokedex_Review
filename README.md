@@ -9,3 +9,5 @@ https://github.com/RoLDT/python-pandas-practice-Pokemon
 
 You can also check out the corresponding videa at:
 https://www.youtube.com/watch?v=vmEHCJofslg
+
+The coding was based off of Keith's but modified to fit my needs.
